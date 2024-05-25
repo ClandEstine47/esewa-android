@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">eSewa Android</string>
+    <string name="success">SUCCESSFUL PAYMENT</string>
+    <string name="cancelled">Transaction cancelled</string>
+    <string name="invalid">Invalid</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="make_payment">Make Payment</string>
 </resources>
